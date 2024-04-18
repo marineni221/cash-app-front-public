@@ -1,0 +1,42 @@
+{
+    "description": "Cash transfer application: enabling companies or organizations to deposit money en masse into electronic money accounts.",
+    "google-sign": "Sign in with google",
+    
+    "or": "Or",
+    
+    "french": "French",
+    "english": "English",
+
+    "sign-in": "Sign In",
+    "sign-out": "Sign out",
+    "sign-up": "Sign Up",
+    "forgot-password": "Forgot Password",
+    "link-sent-to-email": "<1>We have sent a reset link by e-mail to <1 className='text-primary'> {{email}} </1>. </1> <1>This link will allow you to create a new password securely.</1>",
+    "retrieve-account": "Retrieve your account",
+    "enter-email-address": "Enter your email address to retrieve your account.",
+    "return-login": "Back to login page",
+    "next": "Next",
+    "check-email": "Check your email",
+    "email-required": "Email is required",
+    "email-not-valid": "Please enter a valid email address",
+    "email-not-correspond-to-user": "This email address is not yet registered. Please register first.",
+    "create-new-password": "Create a new password",
+    "create-password": "Create password",
+    "confirm-password": "Confirm your password",
+    "identic-password-validation": "Password confirmation must be identical to your password",
+    "create-new-password-description": "Create a new password to retrieve your account",
+    "password-complexity-requirements": "Password complexity requirements",
+    "password-complexity-description": "It is advisable to include the following elements:",
+    "password-complexity-length": "Use between 8 and 64 characters",
+    "password-complexity-lower": "Use at least one lowercase letter",
+    "password-complexity-upper": "Use at least one capital letter",
+    "password-complexity-digits": "Use at least one digit",
+    "password-complexity-specialChar": "Use at least one special character (#[]()]$#*!?|,.^/\\+_-)",
+    "password-reseted": "Password Reseted Successfully",
+    "password-reseted-description": "your password has been reset successfully you can login again by clicking the back button.",
+    
+
+    "page-expired": "This page has been expired",
+    "login-again": "Please log in again to continue your session.",
+    "session-expired": "Your session has been expired"
+}

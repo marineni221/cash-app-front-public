@@ -1,0 +1,41 @@
+{
+    "description": "Application de cash transfert : permettre à des entreprises ou organisations de déposer en masse de l'argent sur des comptes de monnaie électronique.",
+    "google-sign": "Connectez-vous avec google",
+    
+    "or": "Ou",
+
+    "french": "Français",
+    "english": "Anglais",
+
+    "sign-in": "Se connecter",
+    "sign-out": "Se déconnecter",
+    "sign-up": "S'inscrire",
+    "forgot-password": "Mot de passe oublié",
+    "link-sent-to-email": "<1>Nous avons envoyé un lien de réinitialisation par e-mail à <1 className='text-primary'> {{email}} </1>. </1> <1>Ce lien vous permettra de créer un nouveau mot de passe en toute sécurité.</1>",
+    "retrieve-account": "Retrouver votre comptes",
+    "enter-email-address": "Saisissez votre adresse email pour récupérer votre compte.",
+    "return-login": "Retourner à la page de connexion",
+    "next": "Suivant",
+    "check-email": "Vérifier votre addresse email",
+    "email-required": "Email est requis",
+    "email-not-valid": "Entrer une addresse email valide",
+    "email-not-correspond-to-user": "Cette addresse email n'est encore inscrit. Veuillez d'abord vous inscrire.",
+    "create-new-password": "Créer un nouveau mot de passe",
+    "create-password": "Créer un mot de passe",
+    "confirm-password": "Confirmer le mot de passe",
+    "identic-password-validation": "La confirmation du mot de passe doit être identique à votre mot de passe",
+    "create-new-password-description": "Créer un nouveau mot de passe pour récupérer votre compte",
+    "password-complexity-requirements": "Exigences de complexité du mot de passe",
+    "password-complexity-description": "Il est conseillé d'inclure les éléments suivants:",
+    "password-complexity-length": "Utiliser entre 8 et 64 caractères",
+    "password-complexity-lower": "Utiliser au moins une minuscule",
+    "password-complexity-upper": "Utiliser au moins une majuscule",
+    "password-complexity-digits": "Utiliser un chiffre au moins",
+    "password-complexity-specialChar": "Utiliser Utiliser un caractère spécial (#[]()]$#*!?|,.^/\\+_-)",
+    "password-reseted": "Mot de passe réinitialisé avec succès",
+    "password-reseted-description": "votre mot de passe a été réinitialisé avec succès, vous pouvez vous connecter à nouveau en cliquant sur le bouton 'retour'.",
+
+    "page-expired": "Cette page a expiré",
+    "login-again": "Veuillez vous connecter à nouveau pour poursuivre votre session.",
+    "session-expired": "Votre session a expiré"
+}
